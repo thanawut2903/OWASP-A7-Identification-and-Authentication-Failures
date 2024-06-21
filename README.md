@@ -145,3 +145,13 @@ Secure Passwords
   5.  การเปลี่ยนรหัสผ่าน: ผู้ใช้ควรปรับปรุงรหัสผ่านอย่างสม่ำเสมอ เพื่อป้องกันการโจมตีแบบล่วงหน้าหรือการเดารหัสผ่านที่อาจเกิดขึ้น
 
   6.  การใช้ Multi-Factor Authentication (MFA): การใช้ MFA เพื่อเพิ่มชั้นความปลอดภัยเพิ่มเติมโดยต้องให้การยืนยันตัวตนจากหลายช่องทาง เช่น รหัส OTP หรือการยืนยันตัวตนผ่านแอปพลิเคชัน
+
+Video การทำ Authentication Bypasses : https://www.youtube.com/watch?v=hrEB9L2oyic
+
+Video การทำ Insecure Login : https://www.youtube.com/watch?v=H-AFrYqFepw
+
+Video การทำ JWT tokens : https://www.youtube.com/watch?v=ZHYYRFMG3bg
+
+Video การทำ Password reset : https://www.youtube.com/watch?v=sH0qu2awxZs
+
+Video การทำ Secure Passwords : https://www.youtube.com/watch?v=NpMq6MRq35Q
